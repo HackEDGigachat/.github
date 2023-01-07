@@ -2,6 +2,8 @@
 
 This is where we put all of our cool projects. I hope you enjoy our tour around our github.:smile:.
 
+![image](http://www.reactiongifs.com/r/cheering_minions.gif)
+
 # What is GigaChat?
 
 GigaChat is an organization trying to create a voice base virtual assistent
