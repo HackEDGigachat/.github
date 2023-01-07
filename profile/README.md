@@ -6,4 +6,4 @@ Our UML
 
 Our FLowChart
 
-![image](.github/profile/assets/RasberryPiFC.png)
+![image](https://github.com/HackEDGigachat/.github/blob/main/profile/assets/RasberryPiFC.png)
