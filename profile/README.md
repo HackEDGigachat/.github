@@ -2,8 +2,8 @@ Hi there
 
 Our UML
 
-![image](.github/assets/UML.png)
+![image](.github/profile/assets/UML.png)
 
 Our FLowChart
 
-![image](.github/assets/RasberryPiFC.png)
+![image](.github/profile/assets/RasberryPiFC.png)
