@@ -17,18 +17,28 @@ With the increase in a variety of technology, many people have access to service
 
 One of the problems to consider are when people have trouble communicating with services effectively. With the help of a virtual assistant, it will allow for easier use between the user and the service. For people who don't struggle with using technology, using voice can be another great option over the alternatives such as writing, typing, and drawing.
 
+Master diagram:
 
+<div id="header" align="center">
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-masterDesign.png" width="1000"/>
+</div>
 
 Our UML
 
 <div id="header" align="center">
-  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/UML.png" width="1000"/>
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-UML.png" width="1000"/>
 </div>
 
-Our FLowChart
+Website Storyboard:
 
 <div id="header" align="center">
-  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/RasberryPiFC.png" width="1000"/>
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-StoryBoard.png" width="1000"/>
+</div>
+
+Our fLowchart for the Pi
+
+<div id="header" align="center">
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-RasberryPiFC.png" width="1000"/>
 </div>
 
 Library Hierarchy
