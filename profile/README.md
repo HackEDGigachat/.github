@@ -23,7 +23,7 @@ One of the problems to consider are when people have trouble communicating with 
   <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-masterDesign.png" width="1000"/>
 </div>
 
-The master diagram consists of 2 input and output types. The first type uses speech, and the second uses typing. Speech input will be automatically converted to text and sent through our database. The message processes through a sniffler, choosing one of the services we provide. Some services will be through the openAI, while looking up time or weather uses the google search API. 
+The master diagram consists of 2 systems of I/O. The first type uses speech, and the second uses typing. Speech input will be automatically converted to text and sent through our database. The message processes through a sniffler, choosing one of the services we provide. Some services will be through the openAI, while looking up time or weather uses the google search API. 
 
 #### Our UML
 
@@ -47,7 +47,7 @@ For the website, there consists of 2 pages, where the first is the login page, a
   <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/GIGACHAT-RasberryPiFC.png" width="1000"/>
 </div>
 
-This is a more detailed flowchart for the left side of the master flowchart
+This is a more detailed flowchart for the left side of the master flowchart. The system listens for a prompt to be heard. Once the promt is heard, it records the next prompt to be processed through the database. The response is sent back in the form of sound.
 
 #### Library Hierarchy
 
