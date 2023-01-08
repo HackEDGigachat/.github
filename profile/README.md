@@ -2,7 +2,10 @@
 
 This is where we put all of our cool projects. I hope you enjoy our tour around our github.:smile:.
 
-![image](http://www.reactiongifs.com/r/cheering_minions.gif)
+<div id="header" align="center">
+  <img src="http://www.reactiongifs.com/r/cheering_minions.gif" width="1000"/>
+</div>
+
 
 # What is GigaChat?
 
@@ -18,12 +21,18 @@ One of the problems to consider are when people have trouble communicating with 
 
 Our UML
 
-![image](https://github.com/HackEDGigachat/.github/blob/main/profile/assets/UML.png)
+<div id="header" align="center">
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/UML.png" width="1000"/>
+</div>
 
 Our FLowChart
 
-![image](https://github.com/HackEDGigachat/.github/blob/main/profile/assets/RasberryPiFC.png)
+<div id="header" align="center">
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/RasberryPiFC.png" width="1000"/>
+</div>
 
 Library Hierarchy
 
-![image](https://github.com/HackEDGigachat/.github/blob/main/profile/assets/HierarchyDiagram.png)
+<div id="header" align="center">
+  <img src="https://github.com/HackEDGigachat/.github/blob/main/profile/assets/HierarchyDiagram.png" width="1000"/>
+</div>
